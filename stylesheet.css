@@ -1,0 +1,10 @@
+body 
+h1, h3{
+    
+    background-color: #cccc80;
+    color: black;
+    opacity: 0.9;
+    text-align: center;
+    border: solid 3px #617a14;
+}
+
