@@ -6,10 +6,12 @@ h1, h3{
     text-align: center;
     border: solid 2px #494c46;
 }
-p, iframe{
+p, blockquote, iframe{
     background-color: rgba(201, 166, 100, 0.45);
     color: black;
     text-align: center;
     border: solid 1px #d1a960;
 }
+
+
 
