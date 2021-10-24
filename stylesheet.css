@@ -1,10 +1,15 @@
 body 
 h1, h3{
     
-    background-color: #cccc80;
+    background-color: rgba(180, 221, 146, 0.83);
     color: black;
-    opacity: 0.9;
     text-align: center;
-    border: solid 3px #617a14;
+    border: solid 2px #494c46;
+}
+p, iframe{
+    background-color: rgba(201, 166, 100, 0.45);
+    color: black;
+    text-align: center;
+    border: solid 1px #d1a960;
 }
 
