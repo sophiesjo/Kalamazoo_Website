@@ -1,4 +1,17 @@
 body 
+.container{
+    position:relative;
+    text-align:center;
+    color:white;
+}
+.centered{
+    position: absolute;
+    font-size-adjust: 0.8;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 h1, h3{
     
     background-color: rgba(180, 221, 146, 0.83);
