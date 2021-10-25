@@ -1,0 +1,14 @@
+body
+h1, h3{
+    
+    background-color: rgba(196, 193, 188, 0.4);
+    color: black;
+    text-align: center;
+    border: solid 2px #211f1f;
+}
+p, blockquote, iframe{
+    background-color: rgba(201, 166, 100, 0.45);
+    color: black;
+    text-align: center;
+    border: solid 1px #d1a960;
+}

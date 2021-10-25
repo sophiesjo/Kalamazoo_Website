@@ -1,29 +1,40 @@
-body 
+body
 .container{
     position:relative;
     text-align:center;
     color:white;
 }
-.centered{
+.centered-top{
     position: absolute;
-    font-size-adjust: 0.8;
-    top: 50%;
+    top: 25%;
     left: 50%;
     transform: translate(-50%, -50%);
+    color: black;
+    background-color: rgba(232, 230, 227, 0.9);
+    border: solid 1px #211f1f;
+}
+.centered-bottom{
+    position: absolute;
+    top: 52%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    background-color: rgba(232, 230, 227, 0.9);
+    border: solid 1px #211f1f;
 }
 
-h1, h3{
-    
-    background-color: rgba(180, 221, 146, 0.83);
-    color: black;
-    text-align: center;
-    border: solid 2px #494c46;
-}
 p, blockquote, iframe{
-    background-color: rgba(201, 166, 100, 0.45);
+    background-color: rgba(196, 193, 188, 0.4);
     color: black;
+    text-align: left;
+    border: solid 1px #211f1f;
+}
+
+nav{
+    background-color: rgba(196, 193, 188, 0.4);
     text-align: center;
-    border: solid 1px #d1a960;
+    color: black;
+    border: solid 1px #211f1f;
 }
 
 
