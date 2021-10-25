@@ -12,3 +12,9 @@ p, blockquote, iframe{
     text-align: center;
     border: solid 1px #d1a960;
 }
+nav{
+    background-color: rgba(196, 193, 188, 0.4);
+    text-align: center;
+    color: black;
+    border: solid 1px #211f1f;
+}
