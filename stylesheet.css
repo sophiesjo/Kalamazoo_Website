@@ -27,7 +27,6 @@ p, blockquote, iframe, ul{
     background-color: rgba(196, 193, 188, 0.4);
     color: black;
     text-align: left;
-    border: solid 1px #211f1f;
 }
 
 nav{
