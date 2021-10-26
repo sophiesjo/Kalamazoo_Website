@@ -2,7 +2,6 @@ body
 .container{
     position:relative;
     text-align:center;
-    color:white;
 }
 .centered-top{
     position: absolute;
@@ -12,6 +11,7 @@ body
     color: black;
     background-color: rgba(232, 230, 227, 0.9);
     border: solid 1px #211f1f;
+    font-family: "Georgia", serif;
 }
 .centered-bottom{
     position: absolute;
@@ -21,6 +21,7 @@ body
     color: black;
     background-color: rgba(232, 230, 227, 0.9);
     border: solid 1px #211f1f;
+    font-family: "Georgia", serif;
 }
 
 p, blockquote, iframe{
