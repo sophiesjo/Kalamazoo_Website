@@ -31,8 +31,11 @@ p, blockquote, iframe{
     border: solid 1px #d1a960;
 }
 nav{
-    background-color: rgba(196, 193, 188, 0.4);
+    background-color: rgba(184, 204, 219, 0.85);
     text-align: center;
     color: black;
     border: solid 1px #211f1f;
+    position: -webkit-sticky;
+    position: sticky;
+    top:0;
 }
