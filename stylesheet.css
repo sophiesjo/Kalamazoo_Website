@@ -60,4 +60,9 @@ nav{
     width:50%;
 }
 
-
+.footer {
+    background-color: rgba(184, 204, 219, 0.85);
+    text-align: left;
+    padding: 10px;
+    font-family: "Georgia", serif;
+}
