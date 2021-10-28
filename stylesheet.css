@@ -51,7 +51,9 @@ nav{
     position: sticky;
     top:0;
     font-family: "Georgia", serif;
+    z-index:2;
 }
+
 
 .center{
     display: block;
