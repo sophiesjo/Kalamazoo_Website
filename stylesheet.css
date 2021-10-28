@@ -1,5 +1,5 @@
 body
-.container{
+.banner{
     position:relative;
     text-align:center;
 }
@@ -16,7 +16,7 @@ body
 }
 .centered-bottom{
     position: absolute;
-    top: 52%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: black;
@@ -30,6 +30,7 @@ body
     color: black;
     text-align: left;
     border: solid 1px #211f1f;
+    font-family: "Georgia", serif;
 }
 
 
@@ -38,6 +39,7 @@ body
     color: black;
     text-align: center;
     border: solid 1px #211f1f;
+    font-family: "Georgia", serif;
 }
 
 nav{
@@ -48,6 +50,7 @@ nav{
     position: -webkit-sticky;
     position: sticky;
     top:0;
+    font-family: "Georgia", serif;
 }
 
 .center{
