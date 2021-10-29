@@ -47,7 +47,6 @@ nav{
     text-align: center;
     color: black;
     border: solid 1px #211f1f;
-    position: -webkit-sticky;
     position: sticky;
     top:0;
     font-family: "Georgia", serif;
@@ -75,6 +74,6 @@ nav{
     h2{font-size:12pt}
     h3{font-size:10pt}
     h4, h5, a, p, ul, ol, li {font-size:8pt}
-    nav{width:100%, font-size:10pt}
+    nav{width:100%; font-size:10pt}
     img{width:300px}
 }
