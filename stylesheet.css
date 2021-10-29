@@ -36,11 +36,12 @@ body
 
 
 .newHeader{
-    background-color: rgba(196, 193, 188, 0.4);
-    color: black;
+    background-color: rgba(8, 72, 168, 0.75);
+    color: white;
     text-align: center;
     border: solid 1px #211f1f;
     font-family: "Georgia", serif;
+    font-variant: small-caps;
 }
 
 nav{
