@@ -10,7 +10,7 @@ body
     transform: translate(-50%, -50%);
     color: black;
     background-color: rgba(232, 230, 227, 0.9);
-    border: solid 1px #211f1f;
+    border: double 5px #211f1f;
     font-variant: small-caps;
     font-family: "Georgia", serif;
 }
@@ -21,7 +21,7 @@ body
     transform: translate(-50%, -50%);
     color: black;
     background-color: rgba(232, 230, 227, 0.9);
-    border: solid 1px #211f1f;
+    border: double 5px #211f1f;
     font-family: "Georgia", serif;
 }
 
@@ -36,7 +36,7 @@ body
     background-color: rgba(184, 204, 219, 0.13);
     color: black;
     text-align: left;
-    border: solid 1px #211f1f;
+    border: solid 2px rgba(87, 87, 147, 0.52);
     font-family: "Georgia", serif;
 }
 
@@ -83,6 +83,8 @@ nav{
     
     .col-sm-7{display:inline;width:100%}
     .col-sm-5{display:inline; width:100%}
+    .centered-top{border: double 3px #211f1f;}
+    .centered-bottom{border: double 3px #211f1f;}
     
 }
 
